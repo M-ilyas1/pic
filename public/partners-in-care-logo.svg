@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" role="img" aria-labelledby="title desc">
+  <title id="title">Partners in Care</title>
+  <desc id="desc">Two people joining around a subtle heart shape</desc>
+  <g transform="translate(8 8)">
+    <circle cx="40" cy="40" r="38" fill="#dff4f0"/>
+    <circle cx="28" cy="26" r="6" fill="#08796f"/>
+    <circle cx="52" cy="26" r="6" fill="#08796f"/>
+    <path d="M16 58c2-13 8.5-20 18-20 1.5 0 3.5.3 6 .9 2.5-.6 4.5-.9 6-.9 9.5 0 16 7 18 20" fill="none" stroke="#08796f" stroke-linecap="round" stroke-width="8"/>
+    <path d="M30 46c4 0 7.4 2.7 10 7 2.6-4.3 6-7 10-7" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+  <text x="105" y="45" fill="#062434" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Partners in Care</text>
+  <text x="106" y="68" fill="#08796f" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing=".5">WORKING TOGETHER FOR HEALTHIER COMMUNITIES</text>
+</svg>
